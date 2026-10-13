@@ -1,5 +1,3 @@
-"""Problem 2: find unique substrings using recursion."""
-
 import sys
 
 
