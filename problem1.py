@@ -1,5 +1,3 @@
-"""Problem 1: check palindromes and print the total."""
-
 import sys
 
 
