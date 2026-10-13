@@ -1,4 +1,4 @@
-"""Run with: python3 test_homework3.py"""
+# Run with: python3 test_hw3.py
 
 import pathlib
 import subprocess
