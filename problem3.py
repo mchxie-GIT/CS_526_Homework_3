@@ -1,6 +1,3 @@
-"""Problem 3: recursively reverse three kinds of stacks."""
-
-
 class ArrayStack:
     def __init__(self):
         self.items = []
