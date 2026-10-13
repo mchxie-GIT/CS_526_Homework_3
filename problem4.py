@@ -1,5 +1,3 @@
-"""Problem 4: check whether any two infinite streams cross."""
-
 import sys
 
 
